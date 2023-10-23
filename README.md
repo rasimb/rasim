@@ -2,7 +2,7 @@
 - 👀 I’m interested in video editing, collabs, coding, beer.
 - 🌱 I’m currently learning javascript ...
 - 💞️ I’m looking forward to collaborate on first steps.
-- 📫 How to reach me? Click <a href="https://baybars.de">here</a>
+- 📫 How to reach me? Write to <a href="mailto=rasim@duck.com">rasim@duck.com</a>
 
 <!---
 rasimb/rasimb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

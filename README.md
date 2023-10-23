@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rasimb
+- 👋 Hi, I’m @rasim
 - 👀 I’m interested in video editing, collabs, coding, beer.
 - 🌱 I’m currently learning javascript ...
 - 💞️ I’m looking forward to collaborate on first steps.

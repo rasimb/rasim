@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rasim
-- 👀 I’m interested in video editing, collabs, coding, beer.
+- 👀 I’m interested in video editing, collabs & coding.
 - 🌱 I’m currently learning javascript ...
 - 💞️ I’m looking forward to collaborate on first steps.
 - 📫 How to reach me? Write to <a href="mailto=rasim@duck.com">rasim@duck.com</a>
